@@ -67,6 +67,6 @@ int main()
      {
           cout << "No" << endl;
           return 0;
-     } 
+     }
      return 0;
 }
