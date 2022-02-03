@@ -5,7 +5,7 @@
      * Ta có thể đổi (hoặc không cần đổi) vị trí a[i] và b[i] giữa hai mảng a,b
      * Tìm tích của hai phần tử lớn nhất của hai mảng sao cho tích hai phân tử đó là nhỏ nhất
 
-     - Ví dụ:
+     - Ví dụ: 
      * Input: 
 
      3 // t = 3
