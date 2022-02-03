@@ -1,6 +1,6 @@
 /*
      - Numtrans - Trò chơi ghép số
-     - Đề bài: 
+     - Đề bài:  
      * Cho n số nguyên dương a1,a2,...,an. Hãy ghép các số lại với nhau sao cho được số nguyên dương lớn nhất
 
      - Input: dòng đâu là số nguyên n, dòng thứ 2 chứa n số nguyên dương, hai số liên tiếp
