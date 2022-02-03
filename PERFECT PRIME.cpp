@@ -6,7 +6,7 @@
           * Tất cả các số thuộc số đó đều là số nguyên tố
           * Sau khi đảo ngược lại vẫn là số đó và vẫn là số nguyên tố
 
-     - Input : Nhập vào N
+     - Input : Nhập vào N 
      - Output: In ra số lượng các số nguyên tố hoàn hảo có n chữ số
 
      - Ví dụ: N = 1, thì sẽ có tổng cộng là 4 số nguyên tố hoàn hảo có 1 chữ số, bao gồm:
