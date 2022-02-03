@@ -6,7 +6,7 @@
      * Tìm tích của hai phần tử lớn nhất của hai mảng sao cho tích hai phân tử đó là nhỏ nhất
 
      - Ví dụ:
-     * Input:
+     * Input: 
 
      3 // t = 3
      6 // n = 6
