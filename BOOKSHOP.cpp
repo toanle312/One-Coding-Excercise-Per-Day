@@ -1,6 +1,6 @@
 /*
      - Book shop - Tiệm sách
-     - Đề bài:
+     - Đề bài: 
      * Nhà sách đang có chương trình mua 3 tính tiền 2, và khách hàng có thể mua ít hơn
      hoặc nhiều hơn 3 quyển, nếu mua 3 quyển thì quyển ít tiền nhất sẽ được miễn phí.
      * Giả sử muốn mua 7 quyển sách có mệnh giá như sau: 2, 3, 4, 4, 6, 9, 10
