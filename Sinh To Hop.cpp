@@ -29,7 +29,7 @@ void Try(int i, int k)
                out(k);
                cout << endl;
           }
-          // Nếu chưa thì xét tiếp khả năng tiếp theo cho cho trường hợp a[i]
+          // Nếu chưa thì xét tiếp khả năng tiếp theo
           else
                Try(i + 1, k);
      }
