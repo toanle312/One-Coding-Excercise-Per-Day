@@ -2,7 +2,7 @@
      - Đề bài: Cho 2 số nguyên dương n số nguyên dương và một số s. Hãy tính xem trong
      n số đó có tổng các chữ số nào bằng s hay không, nếu có in ra các số đó nếu không
      in ra -1.
-
+ 
      - Cách làm dưới đây là cách vét cạn, nếu muốn cải tiến có thể dùng đệ quy để sinh
      các tập con của dãy n phần tử sau đó xét xem tập con nào có tổng các phần tử là s
      thì in ra tập con đó. Nhưng cách làm tối ưu nhất vẫn là cách quy hoạch động, có thể
